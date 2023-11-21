@@ -23,4 +23,4 @@ const list = [6, 12, -9, 5];
 log(list);
 log(bubbleSort(list));
 log(swaps);
-log(comparisons)
+log(comparisons);
